@@ -15,6 +15,7 @@ interface Report {
     selector: 'app-report-list',
     imports: [CommonModule],
     templateUrl: './report-list.component.html',
+    standalone: true,
     styleUrl: './report-list.component.css'
 })
 
