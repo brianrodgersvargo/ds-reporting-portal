@@ -1,0 +1,27 @@
+<button id="sidebarToggler" (click)="toggleSidebar()"> 
+    <span id="hamburgerIconLine1" class="hamburgerIconLine animateHamburgerIconLine1"> </span>
+    <span id="hamburgerIconLine2" class="hamburgerIconLine animateHamburgerIconLine2"> </span>
+    <span id="hamburgerIconLine3" class="hamburgerIconLine animateHamburgerIconLine3"> </span>
+</button>
+
+<div id="sidebar">
+
+    <div class="sidebarTitle">
+        <p> Report Portal </p>
+    </div>
+
+    <div class="sidebarNav">
+
+    </div>
+
+
+    <div *ngIf="reports.length === 0">
+        Loading reports...
+    </div>
+
+
+    <div *ngFor="let report of reports" class="report-card"> 
+        <p>{{ report.reportTitle }}</p>
+    </div>
+
+</div>

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 201,
+    "sponsorName": "Global Pharma Inc.",
+    "reportTitle": "Site Payment Cycle Time Analysis - Q1 2025",
+    "summary": "Average time from site invoice submission/milestone achievement to payment completion across all sites for Study GP-XYZ. Includes benchmarks.",
+    "category": "Site Payments"
+  },
+  {
+    "id": 202,
+    "sponsorName": "BioFuture Therapeutics",
+    "reportTitle": "Study BF-ABC Budget vs. Actual Cost Variance Report",
+    "summary": "Detailed breakdown of cost variances for investigator grants and site fees compared to the approved budget, utilizing Greenphire FMV data insights.",
+    "category": "Budget & Finance"
+  },
+  {
+    "id": 203,
+    "sponsorName": "Innovate Oncology",
+    "reportTitle": "Participant Stipend & Reimbursement Summary - Apr 2025",
+    "summary": "Overview of total payments processed via ClinCard (or similar) for patient participation, categorized by visit type, site, and country.",
+    "category": "Participant Payments"
+  },
+  {
+    "id": 204,
+    "sponsorName": "CNS Solutions Ltd.",
+    "reportTitle": "Real-time Enrollment Rate Dashboard - Study CNS-101",
+    "summary": "Live view provided by Suvoda Platform showing screening, enrollment, and randomization rates across participating countries and sites.",
+    "category": "Trial Operations & Management"
+  },
+  {
+    "id": 205,
+    "sponsorName": "Global Pharma Inc.",
+    "reportTitle": "Investigational Product Supply Overview - Study GP-XYZ",
+    "summary": "Suvoda IRT report showing current drug inventory levels, dispensation rates, shipment statuses, and projected resupply needs.",
+    "category": "Drug Supply & Logistics"
+  },
+  {
+    "id": 206,
+    "sponsorName": "CardioHealth Ventures",
+    "reportTitle": "Projected Site Payment Cash Flow - Study CHV-HEART",
+    "summary": "Greenphire forecast of upcoming site payment obligations based on current enrollment velocity, completed visits, and contract terms.",
+    "category": "Site Payments"
+  },
+  {
+    "id": 207,
+    "sponsorName": "BioFuture Therapeutics",
+    "reportTitle": "Patient Visit Adherence & Compliance - Study BF-ABC",
+    "summary": "Analysis derived from Suvoda eClinical data showing scheduled vs. completed patient visits and eConsent version compliance.",
+    "category": "Compliance & Oversight"
+  },
+  {
+    "id": 208,
+    "sponsorName": "Innovate Oncology",
+    "reportTitle": "Payment Anomaly Detection Report - May 2025",
+    "summary": "Greenphire analytics highlighting potential duplicate payments, payments outside contract terms, or unusual participant reimbursements requiring review.",
+    "category": "Compliance & Oversight"
+  },
+  {
+    "id": 209,
+    "sponsorName": "CNS Solutions Ltd.",
+    "reportTitle": "Site Activation & Startup Performance - CNS Portfolio",
+    "summary": "Cross-study report aggregating site activation timelines and comparing against benchmarks to identify bottlenecks, potentially integrating Greenphire budget negotiation data.",
+    "category": "Trial Operations & Management"
+  },
+  {
+    "id": 210,
+    "sponsorName": "Global Pharma Inc.",
+    "reportTitle": "Quarterly Financial Operations Summary - GP Portfolio",
+    "summary": "Consolidated view of key financial metrics across all studies managed via Greenphire, including total spend, payment efficiency, and budget adherence.",
+    "category": "Budget & Finance"
+  },
+  {
+    "id": 211,
+    "sponsorName": "CardioHealth Ventures",
+    "reportTitle": "Site Payment Disbursement Efficiency - Q2 2025",
+    "summary": "Evaluation of payment disbursement timelines and efficiency improvements for sites in cardiovascular studies.",
+    "category": "Site Payments"
+  },
+  {
+    "id": 212,
+    "sponsorName": "NeuroPharm Solutions",
+    "reportTitle": "Annual Budget Forecast Accuracy - 2025",
+    "summary": "Assessment of budget forecasting accuracy compared to actual expenditures for CNS therapeutic trials.",
+    "category": "Budget & Finance"
+  },
+  {
+    "id": 213,
+    "sponsorName": "OncoHealth Partners",
+    "reportTitle": "Participant Reimbursement Trends - H1 2025",
+    "summary": "Analysis of reimbursement patterns and participant payment methods across oncology clinical trials.",
+    "category": "Participant Payments"
+  },
+  {
+    "id": 214,
+    "sponsorName": "TrialMax Solutions",
+    "reportTitle": "Trial Enrollment Efficiency Report - Study TMX-2025",
+    "summary": "Insights into enrollment efficiency and site activation speed for recent trials managed via Suvoda platform.",
+    "category": "Trial Operations & Management"
+  },
+  {
+    "id": 215,
+    "sponsorName": "Global Pharma Inc.",
+    "reportTitle": "Drug Supply Chain Risk Assessment - Q2 2025",
+    "summary": "Evaluation of potential risks and mitigation strategies in the investigational product supply chain.",
+    "category": "Drug Supply & Logistics"
+  },
+  {
+    "id": 216,
+    "sponsorName": "MedTrials Inc.",
+    "reportTitle": "Site Payment Forecast Accuracy - Q2 2025",
+    "summary": "Analysis of forecast accuracy for site payments based on enrollment and visit completion data.",
+    "category": "Site Payments"
+  },
+  {
+    "id": 217,
+    "sponsorName": "BioFuture Therapeutics",
+    "reportTitle": "Regulatory Compliance Audit - Study BF-DEF",
+    "summary": "Comprehensive audit of regulatory compliance and documentation accuracy for ongoing clinical trials.",
+    "category": "Compliance & Oversight"
+  },
+  {
+    "id": 218,
+    "sponsorName": "Innovate Oncology",
+    "reportTitle": "Fraud Detection in Payment Processing - Q2 2025",
+    "summary": "Advanced analytics identifying potential fraudulent activities in participant and site payments.",
+    "category": "Compliance & Oversight"
+  },
+  {
+    "id": 219,
+    "sponsorName": "CNS Solutions Ltd.",
+    "reportTitle": "Site Startup Delay Analysis - CNS Portfolio",
+    "summary": "Investigation of causes and impacts of site startup delays across multiple studies.",
+    "category": "Trial Operations & Management"
+  },
+  {
+    "id": 220,
+    "sponsorName": "Global Pharma Inc.",
+    "reportTitle": "Financial Performance Dashboard - GP Portfolio",
+    "summary": "Interactive dashboard summarizing key financial performance indicators across all managed studies.",
+    "category": "Budget & Finance"
+  }
+]

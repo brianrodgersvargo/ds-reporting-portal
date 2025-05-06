@@ -1,0 +1,95 @@
+#sidebar {
+    width: 40vw;
+    max-width: 400px;
+    background-color: var(--lightgrey);
+    font-size: 0.75rem;
+    height: 100vh;
+    visibility: visible;
+}
+
+.visible {
+    visibility: visible !important;
+}
+
+.hidden {
+    visibility: hidden !important;
+}
+
+.sidebarTitle {
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+
+.report-card {
+    width: 100%;
+    cursor: pointer;
+    p {
+        padding: 0.5rem;
+    }
+}
+
+.report-card:hover {
+    background-color: aliceblue;
+}
+
+#sidebarToggler {
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    height: 35px;
+    justify-content: center;
+    width: 40vw;
+    max-width: 400px;
+    background-color: var(--lightgrey)
+}
+
+.sidebarTogglerOpen {
+    background-color: transparent !important;
+}
+
+.hamburgerIconLine {
+    display: flex;
+    width: 25px;
+    height: 2px;
+    background-color: black;
+    border-radius: 2px;
+    transition-duration: 300ms;
+}
+
+.hamburgerIconLine1 {
+
+}
+
+.hamburgerIconLine2 {
+    transform: translate(0, 5px);
+}
+
+.hamburgerIconLine3{
+    transform: translate(0, 10px);
+}
+
+.animateHamburgerIconLine1 {
+    transform: translate(1px, 4px) rotate(45deg);
+}
+.animateHamburgerIconLine2 {
+    opacity: 0;
+}
+.animateHamburgerIconLine3 {
+    transform: rotate(-45deg);
+}
+
+.report-card {
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+    #sidebar {
+        width: 100vw;
+    }
+    #sidebarToggler {
+        width: 100vw;
+    }
+}
